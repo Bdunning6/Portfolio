@@ -21,3 +21,10 @@ This a portfolio that holds a collection of my personal and past school projects
 | Project                                                      | Description                                                                                                                                                                                                           | Skills/Libraries Used              |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
 | [Movie Theater Industry Correlation and Visualization Project](https://github.com/Bdunning6/Movie-Theater-Industry-Correlation-Project/edit/main/README.md) | I will analyze what makes a movie successful and develop a potential business strategy that allows for theaters to adapt to remain profitable in the future by looking at correlations and developing visualizations. | Pandas, Numpy, Seaborn, Matplotlib |
+
+## PowerBI Projects
+
+**Note:** You need a PowerBI account to view the published dashboard. If you aren't able to access these links, all of my SQL and Python Projects contain pictures of the visualizations I used for each of them.
+
+
+
