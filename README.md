@@ -25,7 +25,7 @@ This a portfolio that holds a collection of my personal and past school projects
 
 ## PowerBI Dashboards
 
-**Note:** You need a PowerBI account to view the published dashboard. If you aren't able to access these links, all of my SQL and Python Projects contain images of the visualizations I used for each of them.
+**Note:** You need a PowerBI account to view the published dashboards. If you aren't able to access these links, all of my SQL and Python Projects contain images of the visualizations I used for each of them.
 
 | Project                             | Description                                                                                     |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
