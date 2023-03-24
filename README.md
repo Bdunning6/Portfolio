@@ -24,7 +24,11 @@ This a portfolio that holds a collection of my personal and past school projects
 
 ## PowerBI Projects
 
-**Note:** You need a PowerBI account to view the published dashboard. If you aren't able to access these links, all of my SQL and Python Projects contain pictures of the visualizations I used for each of them.
+**Note:** You need a PowerBI account to view the published dashboard. If you aren't able to access these links, all of my SQL and Python Projects contain images of the visualizations I used for each of them.
 
-
+| Project                             | Description                                                                                     |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|
+| [Olist E-Commerce Analysis Dashboard](https://app.powerbi.com/groups/ec280147-b21d-47d5-9dd9-0c3563bbde5c/reports/5ded60d6-8e8e-48f8-bcf0-d0f2f9f691b0/ReportSection) | Dashboard that goes along with my Olist E-Commerce Analysis project.                            |
+| [Apple App Store Dashboard](https://app.powerbi.com/groups/ec280147-b21d-47d5-9dd9-0c3563bbde5c/reports/92904175-7424-4a6f-9bb7-32ff14232be0/ReportSection4244f44c6002829d939d)           | Dashboard that goes along with my Apple App Store Data Exploration project.                     |
+| Movie Theater Industry Dashboard    | Dashboard that goes along with my Movie Theater Industry Correlation and Visualization Project. |
 
