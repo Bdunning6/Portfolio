@@ -6,7 +6,7 @@ This a portfolio that holds a collection of my personal and past school projects
 ## Table of Contents
 * [SQL](#sql-projects)
 * [Python](#python-projects)
-* [PowerBI](#Powerbi-projects)
+* [PowerBI](#powerbi-projects)
 * [Tableau](#tableau-projects)
 * [Hobby Projects](#hobby-projects)
 
@@ -41,3 +41,7 @@ This a portfolio that holds a collection of my personal and past school projects
 | [School Project: How Can the Police Operate More Efficiently to Keep UK Students Safe?](https://public.tableau.com/app/profile/brett.a.dunning/viz/Case2VisualAnalysisTeam6BrettDunningandJospehMedley/Dashboard1) | A project where we analyzed a police report dataset from the Lexington Police department in order to generate insights in how the police could operate more efficiently in order to keep students more safe. |
 
 ## Hobby Projects
+
+| Project                                       | Description                                                                                                                               | Libraries |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Pokemon Scarlet Violet Web Scrapping Project  | A project where I web-scrape 406 Pokemon for future competitive team-building purposes.  |           |
