@@ -1,7 +1,7 @@
 # Portfolio
 Hello!
 
-This a portfolio that holds a collection of my personal and past school projects.
+This a portfolio that holds a collection of my personal and past school projects. To view a project, just click the blue title link.
 
 ## Table of Contents
 * [SQL Projects](#sql-projects)
