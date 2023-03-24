@@ -8,7 +8,7 @@ This a portfolio that holds a collection of my personal and past school projects
 * [Python](#python-projects)
 * [PowerBI](#Powerbi-projects)
 * [Tableau](#tableau-projects)
-* [Non-Relevant/Hobby Projects](#non-relevant/hobby-projects)
+* [Hobby Projects](#hobby-projects)
 
 ## SQL Projects
 
@@ -40,4 +40,4 @@ This a portfolio that holds a collection of my personal and past school projects
 | [School Project: What Job Sectors Are the Most Advantageous to Get Into?]( https://public.tableau.com/app/profile/brett.a.dunning/viz/AN450GProjectTableauTeam6/HighestSalaryDashboard)                            | A project where we analyzed the job market in Kentucky in order to find out which jobs sectors would be the most advantagous to get into                                                                     |
 | [School Project: How Can the Police Operate More Efficiently to Keep UK Students Safe?](https://public.tableau.com/app/profile/brett.a.dunning/viz/Case2VisualAnalysisTeam6BrettDunningandJospehMedley/Dashboard1) | A project where we analyzed a police report dataset from the Lexington Police department in order to generate insights in how the police could operate more efficiently in order to keep students more safe. |
 
-## Non-Relevant/Hobby Projects
+## Hobby Projects
