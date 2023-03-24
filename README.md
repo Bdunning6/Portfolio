@@ -4,11 +4,11 @@ Hello!
 This a portfolio that holds a collection of my personal and past school projects.
 
 ## Table of Contents
-* [SQL](sql)
-* [Python](python)
-* [PowerBI](PowerBI)
-* [Tableau](tableau)
-* [Non-Relevant/Hobby Projects](non-relevant/hobby-projects)
+* [SQL](#sql)
+* [Python](#python)
+* [PowerBI](#PowerBI)
+* [Tableau](#tableau)
+* [Non-Relevant/Hobby Projects](#non-relevant/hobby-projects)
 
 ## SQL Projects
 
