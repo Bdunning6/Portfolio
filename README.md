@@ -44,4 +44,4 @@ Welcome to my portfolio page! This is a curated collection of my personal and pa
 
 | Project                                       | Description                                                                                                                               | Libraries |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| [Pokemon Scarlet Violet Web Scrapping Project](https://github.com/Bdunning6/Pokemon-SV-Mini-Web-Scrapping-Project/blob/main/README.md)  | A project where I web-scrape 406 Pokemon for future competitive team-building purposes.  | Pandas, Requests, lxml.html          |
+| [Pokemon Scarlet Violet Web Scrapping Mini-Project](https://github.com/Bdunning6/Pokemon-SV-Mini-Web-Scrapping-Project/blob/main/README.md)  | A mini-project where I web-scrape 406 Pokemon for future competitive team-building purposes.  | Pandas, Requests, lxml.html          |
