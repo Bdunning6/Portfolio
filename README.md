@@ -1,7 +1,11 @@
 # Portfolio
 Hello!
 
-Welcome to my portfolio page! This is a curated collection of my personal and past school projects that showcase my diverse skill set as a data analyst. With a passion for uncovering insights and finding innovative solutions, each project in my portfolio was crafted with care and attention to detail. From analyzing large data sets using Python and SQL to creating dynamic visualizations with Tableau, each project demonstrates my proficiency in various analytical tools and techniques. To view any project, simply click on the blue title link and dive into the details
+Welcome to my portfolio page! This is a curated collection of my personal and past school projects that showcase my diverse skill set as a data analyst. With a passion for uncovering insights and finding innovative solutions, each project in my portfolio was crafted with care and attention to detail. From analyzing large data sets using Python and SQL to creating dynamic visualizations with Tableau, each project demonstrates my proficiency in various analytical tools and techniques. To view any project, simply click on the blue title link.
+
+LinkedIn:  https://www.linkedin.com/feed/
+
+Email:  mbdrunner123@gmail.com
 
 ## Table of Contents
 * [SQL Projects](#sql-projects)
