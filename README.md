@@ -23,7 +23,7 @@ Email:  mbdrunner123@gmail.com
 
 ## Python Projects
 
-| Project                                                      | Description                                                                                                                                                                                                           | Skills/Libraries Used              |
+| Project                                                      | Description                                                                                                                                                                                                           | Libraries Used              |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
 | [Movie Theater Industry Correlation and Visualization Project](https://github.com/Bdunning6/Movie-Theater-Industry-Correlation-Project/blob/main/README.md) |  I analyze what makes a movie successful and I develop a potential business strategy that allows theaters to adapt and remain profitable in the future by looking at correlations and developing visualizations. | Pandas, Numpy, Seaborn, Matplotlib |
 
