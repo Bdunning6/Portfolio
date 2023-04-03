@@ -5,7 +5,7 @@ Welcome to my portfolio page! This is a curated collection of my personal and pa
 
 LinkedIn:  https://www.linkedin.com/in/brett-dunning-9a219a1b9/
 
-Email:  mbdrunner123@gmail.com
+Email: bdunning461@gmail.com
 
 ## Table of Contents
 * [SQL Projects](#sql-projects)
